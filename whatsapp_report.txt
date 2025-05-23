@@ -1,0 +1,13 @@
+WHOIS Summary Report for whatsapp.com
+======================================
+Domain Name:       Domain Name: WHATSAPP.COM
+Registrar:         Registrar: RegistrarSafe, LLC
+Creation Date:     Creation Date: 2008-09-04T12:39:12Z
+Expiration Date:   Registrar Registration Expiration Date: 2033-09-04T12:39:12Z
+Updated Date:      Updated Date: 2024-09-25T19:06:24Z
+Name Servers:
+Name Server: C.NS.WHATSAPP.NET
+Name Server: D.NS.WHATSAPP.NET
+Name Server: B.NS.WHATSAPP.NET
+Name Server: A.NS.WHATSAPP.NET
+======================================

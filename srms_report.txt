@@ -1,0 +1,11 @@
+WHOIS Summary Report for srms.ac.in
+======================================
+Domain Name:       Domain Name: srms.ac.in
+Registrar:         Registrar: ERNET India
+Creation Date:     Creation Date: 2007-10-30T07:19:27Z
+Expiration Date:   
+Updated Date:      Updated Date: 2023-09-15T11:09:24Z
+Name Servers:
+Name Server: ns1.srms.ac.in
+Name Server: ns2.srms.ac.in
+======================================

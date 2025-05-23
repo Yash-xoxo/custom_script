@@ -1,0 +1,13 @@
+WHOIS Summary Report for google.com
+======================================
+Domain Name:       Domain Name: google.com
+Registrar:         Registrar: MarkMonitor, Inc.
+Creation Date:     Creation Date: 1997-09-15T07:00:00+0000
+Expiration Date:   Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Updated Date:      Updated Date: 2024-08-02T02:17:33+0000
+Name Servers:
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+======================================
